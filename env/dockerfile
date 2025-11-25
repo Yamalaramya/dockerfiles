@@ -3,4 +3,4 @@ FROM almalinux:9
 ENV COURSE="DOCKER" \
     TRAINER="Ramya" \
     DURATION="10HRS"
-CMD ["sleep", "1000"]
+CMD ["sleep", "1"]
