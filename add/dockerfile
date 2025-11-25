@@ -1,5 +1,4 @@
 
 FROM almalinux:9
 ADD https://raw.githubusercontent.com/Yamalaramya/Ramyarepo2024/refs/heads/main/README.md /temp/notes.txt
-ADD sample-2.tar /tmp/
 CMD ["sleep", "100"]
